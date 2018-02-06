@@ -45,4 +45,6 @@ I got a canned response that mentioned that the current abuse email is just for 
 
 ![GoDaddy contact](/images/postmedia/safari-lock/godaddy-part-2.png)
 
-And then there was no response. The GoDaddy policy is that they don't follow-up on reported domain abuse cases, which is fine, however, today, at the time of publication, the domain is alive and well, still with GoDaddy. If you know a better way to report it, please let me know, because while tech-savvy people can see what this is about, those that aren't are likely to get scammed.
+And then there was no response. 
+
+The GoDaddy policy is that they don't follow-up on reported domain abuse cases, which is fine, however, today, at the time of publication, the domain is alive and well, still with GoDaddy, **almost 3 weeks after the original report**. If you know a better way to report it, please let me know, because while tech-savvy people can see what this is about, those that aren't are likely to get scammed.
