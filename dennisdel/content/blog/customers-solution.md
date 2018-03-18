@@ -4,7 +4,7 @@ type: blog
 date: 2018-03-18T00:04:10+00:00
 slug: customers-solution
 news_keywords: [ "customer", "pm", "solution", "management", "product" ]
-images: ["https://dennisdel.com/images/postmedia/ditch-sms-2fa/heading.jpg"]
+images: ["https://dennisdel.com/images/postmedia/customer-solution/background.jpg"]
 ---
 
 You are a PM. You work for a big company or a startup. You are tasked with determining the direction for your product, so you enthusiastically embark on the journey to talk to as many customers (or potential customers) as possible to determine what their needs are and how your product can help them in the long-run. After months of painstakingly collecting feedback, you emerged victorious with a PowerPoint deck that says: "_We need a bigger button in the toolbar to let people renew their subscription easier_".
