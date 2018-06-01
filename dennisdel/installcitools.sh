@@ -10,7 +10,7 @@ sudo apt-get update -y
 sudo apt-get install -y libssl-dev libffi-dev
 sudo apt-get install -y python3-dev python-dev
 
-sudo apt-get -y upgrade
+#sudo apt-get -y upgrade
 sudo apt-get -y install python3-setuptools python-setuptools
 sudo easy_install pip
 
