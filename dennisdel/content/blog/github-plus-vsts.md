@@ -172,6 +172,8 @@ public static async Task<string> CreateVstsCustomerSuggestion(string title, stri
 
 There are a couple of things worth calling out here. All information related to the issue needs to be JSON-ified (in some cases, unescaped character will cause request failures), in preparation to be POST-ed to the VSTS API. We also need to construct the JSON string with all the information - and yes, I know, I can just serialize a class with all the required properties, but it's just easier to include the default JSON template and fill out the values, given the small size.
 
+Important to note that the `url` here is the [VSTS API URL](https://docs.microsoft.com/en-us/rest/api/vsts/wit/work%20items/create?view=vsts-rest-4.1) that you need to call for the specific item.
+
 The fields that need to be filled out can be obtained via the [VSTS REST API](https://docs.microsoft.com/en-us/rest/api/vsts/wit/work%20item%20type%20categories/list?view=vsts-rest-4.1), for the entity type you want to log the suggestion as.
 
 In the example above, `VSTS_CREDENTIALS` is an environment variable that holds a Personal Access Token with work item creation permissions in the VSTS instance you choose.
