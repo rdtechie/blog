@@ -211,7 +211,11 @@ public static async Task SendGitHubRequest(string url, string requestBody)
 }
 ```
 
-And, here is what it looks like in action:
+On the last mile, you just need to make sure to get the function URL from the GitHub portal:
+
+![Get the web function URL](/images/postmedia/github-plus-vsts/get-function-url.gif)
+
+And add it to your GitHub webhook configuration for the repository which you want to track for feedback - make sure to send all events that are related to comments on issues being posted (or just blanket-cover push events, our tool will sort them out on the server-side). And, here is what it looks like in action:
 
 ![Log a new suggestion](/images/postmedia/github-plus-vsts/log-suggestion.gif)
 
