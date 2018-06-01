@@ -7,8 +7,10 @@ hugo version
 
 # Install Python and PIP
 sudo apt-get -y update
+sudo apt-get install -y libssl-dev libffi-dev
+sudo apt-get install -y python-dev
+
 sudo apt-get -y upgrade
-#sudo apt-get install -y python3-pip
 sudo apt-get -y install python-setuptools
 sudo easy_install pip
 
