@@ -46,7 +46,7 @@ When the files are generated, make sure to copy the YAML files wherever you orig
 Once the build completes, run:
 
 ```
-mono --arch=32 $HOME/Downloads/docfxtest/docfx.exe server _site
+mono --arch=32 $HOME/Downloads/docfxtest/docfx.exe serve _site
 ```
 
 This will provision a new web server running locally on port 8080:
