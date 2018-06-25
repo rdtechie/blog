@@ -2,7 +2,7 @@
 title: '5 Things Learned Generating API Documentation'
 type: blog
 date: 2018-06-21T01:00:00+00:00
-slug: ten-things-api-docs
+slug: five-things-api-docs
 news_keywords: [ "api", "documentation", "docs", "tools" ]
 images: ["https://dennisdel.com/images/postmedia/five-things-api-docs/writing.jpg"]
 ---
