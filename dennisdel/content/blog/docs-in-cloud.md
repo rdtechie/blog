@@ -7,6 +7,10 @@ news_keywords: [ "documentation", "docs", "how-to", "docker", "cloud", "docfx" ]
 images: ["https://dennisdel.com/images/postmedia/docs-in-cloud/sanfran.jpg"]
 ---
 
+**TL;DR:**  Watch this video for a tutorial if you don't want to read the whole post:
+
+{{< youtube JpoZOL_2P9U >}}
+
 Yet another one of those times where people kept asking about something on Twitter, and I thought that it would be easier to write a blog post explaining the inner workings of things instead of responding in 280 characters. This time, this relates to "_How can I build my own little [docs.microsoft.com](https://docs.microsoft.com)_", so let's tackle the problem head-on.
 
 ![Brooklyn 99 - Give people what they want](/images/postmedia/docs-in-cloud/give-people.gif)
